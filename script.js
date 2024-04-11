@@ -1,1 +1,1 @@
-document.body.innerHTML = "hello world";
+document.body.innerHTML = "barev dez";
